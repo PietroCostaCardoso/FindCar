@@ -1,0 +1,93 @@
+ion-content {
+  --background: linear-gradient(135deg, var(--ion-color-light), var(--ion-color-light-tint));
+}
+
+.ion-padding {
+    text-align: center;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.welcome-card, .location-card, .history-card {
+    margin-top: 20px;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05), 0 8px 16px rgba(0,0,0,0.05);
+    background: var(--ion-card-background, var(--ion-color-light));
+    padding: 16px;
+    --ion-item-background: transparent;
+}
+
+.welcome-card ion-card-header, .location-card ion-card-header, .history-card ion-card-header {
+    padding-bottom: 16px;
+}
+
+.welcome-card ion-icon[size="large"] {
+    font-size: 72px;
+    margin-bottom: 16px;
+    color: var(--ion-color-primary);
+}
+
+.welcome-card p, .location-card p {
+    color: var(--ion-color-medium-shade);
+    font-size: 1.1rem;
+    line-height: 1.5;
+}
+
+.location-card p strong {
+    color: var(--ion-color-dark-shade);
+}
+
+/* Botão de ação principal */
+.welcome-card IonButton, .location-card IonButton[expand="block"] {
+    --border-radius: 50px;
+    --box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    height: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-top: 24px;
+}
+
+.location-card .ion-margin-top {
+    margin-top: 24px !important;
+}
+
+.location-card IonInput {
+    --padding-start: 16px;
+    --background: rgba(var(--ion-color-primary-rgb), 0.05);
+    border-radius: 10px;
+}
+
+.app-toolbar {
+    --background: linear-gradient(to right, #0d3a8e, #01194e);
+}
+
+.app-title {
+    font-family: 'Poppins', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    /* Cor do texto e ícone */
+    color: #ffffff;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.25);
+
+    /* Alinhamento do ícone e texto */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.app-title-large {
+    font-family: 'Poppins', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.1);
+}
+
+.history-card ion-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
