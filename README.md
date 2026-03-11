@@ -58,3 +58,11 @@ O **FindCar** é uma aplicação móvel híbrida desenvolvida para resolver um p
 * `src/App.jsx`: Environment setup and main routing.
 * `src/pages/Home.jsx`: Core logic and user interface.
 * `src/theme/variables.css`: Visual customization and themes.
+--- 
+### 📸 Screenshots
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/088881c6-9027-4076-af2d-ac17dd189c7b" width="20%" />
+  <img src="https://github.com/user-attachments/assets/e38e04ae-c670-4f07-bfb7-d6dd2079810a" width="20%" />
+  <img src="https://github.com/user-attachments/assets/ffa3f4c9-e7d6-4537-bba5-44f33c0fcdb0" width="20%" />
+  <img src="https://github.com/user-attachments/assets/38a364ef-6cd3-4f72-ada5-cece4f30e233" width="20%" />
+</div>
