@@ -2,7 +2,7 @@
  * Calculates parking duration and cost.
  * @param {string | Date} startTime 
  * @param {string | Date} endTime 
- * @param {number | s
+ * @param {number 
  * @returns {{duration: string, total: number}}
  */
 export const calculateParkingDetails = (startTime, endTime, hourlyRate) => {
