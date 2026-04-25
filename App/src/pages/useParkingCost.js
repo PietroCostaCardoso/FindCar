@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { calculateParkingDetails } from './parkingUtils';
 
 /**
- * Custom hook to calculate parking cost in real-time
+ * Custom hook to calculate parking cost in real-time:)
  * @param {object} savedLocation 
  * @param {number | string} hourlyRate 
  * @returns {{duration: string, total: number}}
