@@ -1,7 +1,7 @@
 // jest-dom adds custom jest matchers for asserting on DOM nodes.
 import '@testing-library/jest-dom/extend-expect';
 
-// Mock matchmedia
+// Mock matchmedia-  ferramenta de teste que simula a API window.matchMedia do navegador em ambientes Node.js 
 window.matchMedia = window.matchMedia || function() {
   return {
       matches: false,
