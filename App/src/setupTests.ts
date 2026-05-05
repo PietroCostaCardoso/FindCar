@@ -1,4 +1,4 @@
-// jest-dom adds custom jest 
+// estender o Jest com novos comparadores, que facilitam a verificação do estado da sua página.
 import '@testing-library/jest-dom/extend-expect';
 
 // Mock matchmedia-  ferramenta de teste que simula a API window.matchMedia do navegador em ambientes Node.js 
