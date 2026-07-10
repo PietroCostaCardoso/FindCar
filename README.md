@@ -1,4 +1,4 @@
-# 🚗 FindCar - Mobile Parking Manager
+# FindCar - Mobile Parking Manager
 
 ![Autor](https://img.shields.io/badge/Autor-Pietro%20Costa%20Cardoso-blue?style=flat-square&logo=github)
 ![Licença](https://img.shields.io/badge/Licença-MIT-yellow.svg?style=flat-square)
