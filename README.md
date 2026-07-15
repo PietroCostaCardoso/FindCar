@@ -61,3 +61,12 @@ O **FindCar** é uma aplicação móvel híbrida desenvolvida para resolver um p
   <img src="https://github.com/user-attachments/assets/ffa3f4c9-e7d6-4537-bba5-44f33c0fcdb0" width="20%" />
   <img src="https://github.com/user-attachments/assets/38a364ef-6cd3-4f72-ada5-cece4f30e233" width="20%" />
 </div>
+
+## 👤 Autor
+
+Desenvolvido com dedicação por **Pietro Costa Cardoso**.  
+Se este projeto te ajudou, considere dar uma ⭐ no repositório!
+
+Link original: https://github.com/PietroCostaCardoso/FindCar
+
+Pietro Costa Cardoso. Todos os direitos reservados sob a Licença MIT.
