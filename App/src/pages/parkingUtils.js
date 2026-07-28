@@ -1,7 +1,8 @@
 /**
- * Calculates parking duration and cost.
- * @param {string | Date} startTime 
- * @param {string | Date} endTime 
+ * Comentário JSDoc: descreve a função, os parâmetros esperados e o retorno.
+ * @param {string | Date} startTime - horario de inicio
+ * @param {string | Date} endTime - horario de fim
+ * @param {string | number} hourlyRate - taxa horária
  * @returns {{duration: string, total: number}}
  */
 export const calculateParkingDetails = (startTime, endTime, hourlyRate) => {
